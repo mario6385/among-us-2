@@ -28,8 +28,18 @@ police was removed from among us 3.
 - Arsonist
 - Trapper
 - Undertaker
+- Ninja
+- Elecpostor
 - Witch
 - Predator
 - Bomb
+- Assassin
 ## Detective
-Detective is a crewmate who can investigate dead body.
+Detective is a crewmate who can investigate dead body. when they investigate dead body, they will see the killer. after they detected all impostors, they can't talk.
+
+## Sheriff
+Sheriff is a crewmate who can kill impostor.
+
+## Captain
+Captain is a crewmate who can vote 2 times or use vitals anywhere.
+
