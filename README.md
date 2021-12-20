@@ -12,7 +12,6 @@ police is a crewmate who can get hint about impostor from dead body. when they i
 engineer is a crewmate who can fix sabotage fast. fixed sabotage won't be redone.
 
 # among us 3
-police was removed from among us 3.
 
 ## new roles
 - Detecive
@@ -22,6 +21,7 @@ police was removed from among us 3.
 - Analyst
 - Medic
 - Spy
+- Psychic
 - Troll
 - Traitor
 - Jester
@@ -30,10 +30,19 @@ police was removed from among us 3.
 - Undertaker
 - Ninja
 - Elecpostor
-- Witch
 - Predator
 - Bomb
-- Assassin
+- Soldier(ablivable at only Assassin map)
+- Blackmailer(ablivable at only Assassin map)
+- Alien(ablivable at only Assassin map)
+- Assassin(ablivable at only Assassin map)
+- Executioner(ablivable at only Assassin map)
+- Killstigator(ablivable at only Assassin map)
+- Witch(ablivable at only Ghost's house map)
+- Alchimeist(ablivable at only Ghost's house map)
+- Necromancer(ablivable at only Ghost's house map)
+
+## Crewmate roles
 ## Detective
 Detective is a crewmate who can investigate dead body. when they investigate dead body, they will see the killer. after they detected all impostors, they can't talk.
 
@@ -41,5 +50,13 @@ Detective is a crewmate who can investigate dead body. when they investigate dea
 Sheriff is a crewmate who can kill impostor.
 
 ## Captain
-Captain is a crewmate who can vote 2 times or use vitals anywhere.
+Captain is a crewmate who can vote 2 times. THey can use vitals anywhere. They can also see entire map for 10 seconds.
 
+## Torch
+Torch is a crewmate who has full vision even if lights are out.
+
+## Analyst
+Analyst is a crewmate who can see how long ago someone died when meetings(explaining ermegency meetings).
+
+## Medic
+Medic is a crewmate who can revive dead body. But revived can't talk.
