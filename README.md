@@ -60,3 +60,6 @@ Analyst is a crewmate who can see how long ago someone died when meetings(explai
 
 ## Medic
 Medic is a crewmate who can revive dead body. But revived can't talk.
+
+## Spy
+Spy is a crewmate who can use cameras anywhere.
